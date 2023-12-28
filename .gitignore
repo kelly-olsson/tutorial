@@ -2,7 +2,7 @@
 /staticfiles
 /static
 
-#Database
+# Database
 *.sqlite3
 
 # virtualenv
